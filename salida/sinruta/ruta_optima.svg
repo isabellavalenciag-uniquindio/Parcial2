@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="411" viewBox="0 0 300 411" font-family="sans-serif">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <rect x="0" y="0" width="40" height="40" fill="#7f8c8d" stroke="#999999"/>
+  <text x="20" y="26" font-size="16" text-anchor="middle" fill="#222222">X</text>
+  <rect x="40" y="0" width="40" height="40" fill="#7f8c8d" stroke="#999999"/>
+  <text x="60" y="26" font-size="16" text-anchor="middle" fill="#222222">X</text>
+  <rect x="80" y="0" width="40" height="40" fill="#7f8c8d" stroke="#999999"/>
+  <text x="100" y="26" font-size="16" text-anchor="middle" fill="#222222">X</text>
+  <rect x="120" y="0" width="40" height="40" fill="#7f8c8d" stroke="#999999"/>
+  <text x="140" y="26" font-size="16" text-anchor="middle" fill="#222222">X</text>
+  <rect x="160" y="0" width="40" height="40" fill="#7f8c8d" stroke="#999999"/>
+  <text x="180" y="26" font-size="16" text-anchor="middle" fill="#222222">X</text>
+  <rect x="200" y="0" width="40" height="40" fill="#7f8c8d" stroke="#999999"/>
+  <text x="220" y="26" font-size="16" text-anchor="middle" fill="#222222">X</text>
+  <rect x="0" y="40" width="40" height="40" fill="#7f8c8d" stroke="#999999"/>
+  <text x="20" y="66" font-size="16" text-anchor="middle" fill="#222222">X</text>
+  <rect x="40" y="40" width="40" height="40" fill="#2ecc71" stroke="#999999"/>
+  <text x="60" y="66" font-size="16" text-anchor="middle" fill="#222222">S</text>
+  <rect x="80" y="40" width="40" height="40" fill="hsl(40,70%,80%)" stroke="#999999"/>
+  <text x="100" y="66" font-size="16" text-anchor="middle" fill="#222222">.</text>
+  <rect x="120" y="40" width="40" height="40" fill="hsl(40,70%,56%)" stroke="#999999"/>
+  <text x="140" y="66" font-size="16" text-anchor="middle" fill="#222222">L</text>
+  <rect x="160" y="40" width="40" height="40" fill="#e74c3c" stroke="#999999"/>
+  <text x="180" y="66" font-size="16" text-anchor="middle" fill="#222222">M</text>
+  <rect x="200" y="40" width="40" height="40" fill="#7f8c8d" stroke="#999999"/>
+  <text x="220" y="66" font-size="16" text-anchor="middle" fill="#222222">X</text>
+  <rect x="0" y="80" width="40" height="40" fill="#7f8c8d" stroke="#999999"/>
+  <text x="20" y="106" font-size="16" text-anchor="middle" fill="#222222">X</text>
+  <rect x="40" y="80" width="40" height="40" fill="hsl(40,70%,80%)" stroke="#999999"/>
+  <text x="60" y="106" font-size="16" text-anchor="middle" fill="#222222">.</text>
+  <rect x="80" y="80" width="40" height="40" fill="#7f8c8d" stroke="#999999"/>
+  <text x="100" y="106" font-size="16" text-anchor="middle" fill="#222222">X</text>
+  <rect x="120" y="80" width="40" height="40" fill="hsl(40,70%,80%)" stroke="#999999"/>
+  <text x="140" y="106" font-size="16" text-anchor="middle" fill="#222222">.</text>
+  <rect x="160" y="80" width="40" height="40" fill="hsl(40,70%,80%)" stroke="#999999"/>
+  <text x="180" y="106" font-size="16" text-anchor="middle" fill="#222222">.</text>
+  <rect x="200" y="80" width="40" height="40" fill="#7f8c8d" stroke="#999999"/>
+  <text x="220" y="106" font-size="16" text-anchor="middle" fill="#222222">X</text>
+  <rect x="0" y="120" width="40" height="40" fill="#7f8c8d" stroke="#999999"/>
+  <text x="20" y="146" font-size="16" text-anchor="middle" fill="#222222">X</text>
+  <rect x="40" y="120" width="40" height="40" fill="hsl(40,70%,80%)" stroke="#999999"/>
+  <text x="60" y="146" font-size="16" text-anchor="middle" fill="#222222">.</text>
+  <rect x="80" y="120" width="40" height="40" fill="hsl(40,70%,80%)" stroke="#999999"/>
+  <text x="100" y="146" font-size="16" text-anchor="middle" fill="#222222">.</text>
+  <rect x="120" y="120" width="40" height="40" fill="hsl(40,70%,80%)" stroke="#999999"/>
+  <text x="140" y="146" font-size="16" text-anchor="middle" fill="#222222">.</text>
+  <rect x="160" y="120" width="40" height="40" fill="hsl(40,70%,80%)" stroke="#999999"/>
+  <text x="180" y="146" font-size="16" text-anchor="middle" fill="#222222">.</text>
+  <rect x="200" y="120" width="40" height="40" fill="#7f8c8d" stroke="#999999"/>
+  <text x="220" y="146" font-size="16" text-anchor="middle" fill="#222222">X</text>
+  <rect x="0" y="160" width="40" height="40" fill="#7f8c8d" stroke="#999999"/>
+  <text x="20" y="186" font-size="16" text-anchor="middle" fill="#222222">X</text>
+  <rect x="40" y="160" width="40" height="40" fill="#7f8c8d" stroke="#999999"/>
+  <text x="60" y="186" font-size="16" text-anchor="middle" fill="#222222">X</text>
+  <rect x="80" y="160" width="40" height="40" fill="#7f8c8d" stroke="#999999"/>
+  <text x="100" y="186" font-size="16" text-anchor="middle" fill="#222222">X</text>
+  <rect x="120" y="160" width="40" height="40" fill="#7f8c8d" stroke="#999999"/>
+  <text x="140" y="186" font-size="16" text-anchor="middle" fill="#222222">X</text>
+  <rect x="160" y="160" width="40" height="40" fill="#7f8c8d" stroke="#999999"/>
+  <text x="180" y="186" font-size="16" text-anchor="middle" fill="#222222">X</text>
+  <rect x="200" y="160" width="40" height="40" fill="#7f8c8d" stroke="#999999"/>
+  <text x="220" y="186" font-size="16" text-anchor="middle" fill="#222222">X</text>
+  <rect x="10" y="211" width="16" height="16" fill="hsl(40,70%,80%)" stroke="#666666"/>
+  <text x="34" y="225" font-size="14">. = pasillo (costo 1)</text>
+  <rect x="10" y="233" width="16" height="16" fill="hsl(40,70%,56%)" stroke="#666666"/>
+  <text x="34" y="247" font-size="14">L = lodo (costo 3)</text>
+  <rect x="10" y="255" width="16" height="16" fill="hsl(40,70%,80%)" stroke="#666666"/>
+  <text x="34" y="269" font-size="14">M = meta (costo 1)</text>
+  <rect x="10" y="277" width="16" height="16" fill="hsl(40,70%,92%)" stroke="#666666"/>
+  <text x="34" y="291" font-size="14">S = inicio (costo 0)</text>
+  <rect x="10" y="299" width="16" height="16" fill="#7f8c8d" stroke="#666666"/>
+  <text x="34" y="313" font-size="14">X = pared (costo 0)</text>
+  <rect x="10" y="321" width="16" height="16" fill="#2ecc71" stroke="#666666"/>
+  <text x="34" y="335" font-size="14">Inicio</text>
+  <rect x="10" y="343" width="16" height="16" fill="#e74c3c" stroke="#666666"/>
+  <text x="34" y="357" font-size="14">Meta</text>
+  <text x="10" y="379" font-size="14" fill="#c0392b">sin recorrido</text>
+</svg>

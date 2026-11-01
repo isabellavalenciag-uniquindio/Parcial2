@@ -1,5 +1,5 @@
 for archivo <- ~w(terreno recorrido lector validador relajacion buscador escritor) do
-  Code.require_file(Path.join([__DIR__, "lib", archivo <> ".ex"]))
+  Code.require_file(Path.join([__DIR__, "codigo", archivo <> ".ex"]))
 end
 
 defmodule Rescate do
