@@ -142,7 +142,3 @@ n;total
 sus resultados quedan en las carpetas correspondientes de `salida`. Las pruebas
 automatizadas comprueban también que no se pida una segunda solución del caso
 grande ni un noveno tamaño después de alcanzar el umbral.
-
-Para la entrega académica aún se debe preparar el informe PDF con entradas,
-resultados, pruebas y reflexión sobre el uso de IA, y el video individual de
-sustentación. Este README contiene instrucciones y explicaciones para apoyarlos.
