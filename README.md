@@ -18,7 +18,7 @@ Desde la terminal colocamos:
 
     elixir rescate.exs
 
-Si no se indica nada más, el programa usa los datos de `datos/validos`.
+Si no se indica nada más, el programa usa los datos de `datos/valido`.
 
 Para ejecutar un caso específico, escribe la carpeta del caso después del comando:
 
