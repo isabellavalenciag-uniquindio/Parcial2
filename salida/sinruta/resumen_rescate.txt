@@ -1,0 +1,2 @@
+Total de recorridos: 0
+No existe ningún recorrido válido que alcance la meta sin superar la batería.
