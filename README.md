@@ -39,6 +39,4 @@ En `salida/` quedan:
 - `validacion_edificio.txt`: errores de validación, si los hay
 - `expansion_energia.txt`: pasos del Stream de relajación de energía
 
-## Casos de prueba
 
-En `datos/` hay archivos para probar un caso válido, uno inválido y uno límite: [explica en una línea cómo cambiar de caso, por ejemplo reemplazando los archivos de entrada].
