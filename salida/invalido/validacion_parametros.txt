@@ -1,0 +1,11 @@
+parametros.csv línea 2: INVÁLIDO
+  - n debe ser un entero mayor o igual a 1; se recibió "0"
+parametros.csv línea 3: INVÁLIDO
+  - p no puede superar n: n=3, p=4
+parametros.csv línea 4: INVÁLIDO
+  - n debe ser un entero mayor o igual a 1; se recibió "tres"
+parametros.csv línea 5: INVÁLIDO
+  - p debe ser un entero mayor o igual a 1; se recibió "0"
+parametros.csv línea 6: INVÁLIDO
+  - se esperaban dos campos: n;p
+Total válidos: 0; total inválidos: 5

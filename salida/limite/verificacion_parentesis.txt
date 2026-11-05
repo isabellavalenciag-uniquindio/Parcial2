@@ -1,0 +1,10 @@
+propuestas.txt línea 2: VÁLIDA
+  Cadena: "()"
+  Profundidad máxima alcanzada: 1
+propuestas.txt línea 3: VÁLIDA
+  Cadena: "()()()()"
+  Profundidad máxima alcanzada: 1
+propuestas.txt línea 4: VÁLIDA
+  Cadena: "(((())))"
+  Profundidad máxima alcanzada: 4
+Total válidos: 3; total inválidos: 0

@@ -1,0 +1,34 @@
+propuestas.txt línea 2: VÁLIDA
+  Cadena: "(()())"
+  Profundidad máxima alcanzada: 2
+propuestas.txt línea 3: INVÁLIDA
+  Cadena: "((()))"
+  Profundidad máxima alcanzada: 3
+  - profundidad máxima alcanzada 3, superior a p=2; primer prefijo problemático "(((" (posición 3)
+propuestas.txt línea 4: INVÁLIDA
+  Cadena: "())(()"
+  Profundidad máxima alcanzada: 1
+  - cierre sin apertura: primer prefijo problemático "())" (posición 3)
+propuestas.txt línea 7: INVÁLIDA
+  Cadena: "((a"
+  Profundidad máxima alcanzada: 2
+  - longitud incorrecta: se esperaban 6 caracteres y hay 3
+  - carácter no permitido "a" en posición 3
+  - balance final distinto de cero: 2
+propuestas.txt línea 8: INVÁLIDA
+  Cadena: "())x(()"
+  Profundidad máxima alcanzada: 1
+  - longitud incorrecta: se esperaban 6 caracteres y hay 7
+  - carácter no permitido "x" en posición 4
+  - cierre sin apertura: primer prefijo problemático "())" (posición 3)
+propuestas.txt línea 9: INVÁLIDA
+  Cadena: ""
+  Profundidad máxima alcanzada: 0
+  - longitud incorrecta: se esperaban 6 caracteres y hay 0
+propuestas.txt línea 10: INVÁLIDA
+  - se esperaban tres campos: n;p;cadena
+propuestas.txt línea 11: INVÁLIDA
+  Cadena: "()()()"
+  Profundidad máxima alcanzada: 1
+  - p no puede superar n: n=3, p=4
+Total válidos: 1; total inválidos: 7

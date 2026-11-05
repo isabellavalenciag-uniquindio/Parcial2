@@ -1,0 +1,4 @@
+parametros.csv línea 2: VÁLIDO (n=3, p=2)
+parametros.csv línea 3: VÁLIDO (n=4, p=2)
+parametros.csv línea 4: VÁLIDO (n=5, p=3)
+Total válidos: 3; total inválidos: 0

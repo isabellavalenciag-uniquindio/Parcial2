@@ -1,0 +1,11 @@
+# Los ejemplos del PDF incluyen propuestas válidas e inválidas
+3;2;(()())
+3;2;((()))
+3;2;())(()
+
+   # Este comentario también debe ignorarse
+3;2;((a
+3;2;())x(()
+3;2;
+3;2
+3;4;()()()

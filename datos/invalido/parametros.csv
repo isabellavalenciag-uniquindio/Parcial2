@@ -1,0 +1,6 @@
+# Parámetros fuera de rango o con formato incorrecto
+0;1
+3;4
+tres;2
+3;0
+3;2;extra
