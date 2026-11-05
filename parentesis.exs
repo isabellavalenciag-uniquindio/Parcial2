@@ -1,6 +1,7 @@
 Code.require_file("codigo/lector_parentesis.ex", __DIR__)
 Code.require_file("codigo/validador_parentesis.ex", __DIR__)
 Code.require_file("codigo/generador_parentesis.ex", __DIR__)
+Code.require_file("codigo/secuencia_parentesis.ex", __DIR__)
 Code.require_file("codigo/escritor_parentesis.ex", __DIR__)
 
 defmodule Parentesis do
@@ -64,6 +65,24 @@ defmodule Parentesis do
   end
 
   defp generar_archivos(parametros, salida, _conteo) do
+    with :ok <- generar_solicitados(parametros, salida),
+         {:ok, :ok} <-
+           EscritorParentesis.primera(
+             Path.join(salida, "primera_n18_p18.txt"),
+             GeneradorParentesis.generar(18, 18)
+           ),
+         {:ok, {n, total}} <-
+           EscritorParentesis.secuencia(
+             Path.join(salida, "secuencia_parentesis.csv"),
+             SecuenciaParentesis.stream()
+           ) do
+      IO.puts("Primera solución de n=18, p=18 guardada sin consumir las restantes.")
+      IO.puts("Secuencia detenida en n=#{n}, total=#{total} (umbral: 1000).")
+      :ok
+    end
+  end
+
+  defp generar_solicitados(parametros, salida) do
     parametros
     |> LectorParentesis.registros()
     |> Enum.reduce_while(:ok, fn {_linea, campos}, :ok ->
