@@ -1,5 +1,0 @@
-X X X X X
-X S . Z X
-X . S X
-. X M X
-X X X X X
